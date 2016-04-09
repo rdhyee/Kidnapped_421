@@ -1,0 +1,68 @@
+_repo: Kidnapped_421
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 421/421-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: "Kidnapped is a historical fiction adventure novel by Scottish author\
+  \ Robert Louis Stevenson, written as a \"boys' novel\" and first published in the\
+  \ magazine Young Folks from May to July 1886. The novel has attracted the praise\
+  \ and admiration of writers as diverse as Henry James, Jorge Luis Borges and Hilary\
+  \ Mantel. A sequel, Catriona, was published in 1893.\nThe novel is set around 18th-century\
+  \ Scottish events, notably the \"Appin Murder\", which occurred near Ballachulish\
+  \ in 1752 in the aftermath of the Jacobite rising of 1745. Many of the characters\
+  \ were real people, including one of the principals, Alan Breck Stewart. The political\
+  \ situation of the time is portrayed from different viewpoints, and the Scottish\
+  \ Highlanders are treated sympathetically.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Movie Books
+- Adventure
+- Best Books Ever Listings
+- Pirates, Buccaneers, Corsairs, etc.
+- Historical Fiction
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '421'
+  wikidata: Q2349094
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- 18th century -- Fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Kidnapped
+url: http://www.gutenberg.org/ebooks/421
+wikipedia:
+- https://fr.wikipedia.org/wiki/Enlev%C3%A9_!
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D9%81
+- https://pt.wikipedia.org/wiki/Raptado
+- https://pl.wikipedia.org/wiki/Porwany_za_m%C5%82odu
+- https://eu.wikipedia.org/wiki/Bahitua_(Robert_Louis_Stevenson)
+- https://de.wikipedia.org/wiki/Entf%C3%BChrt_(Robert_Louis_Stevenson)
+- https://es.wikipedia.org/wiki/Secuestrado_(novela_de_Robert_Louis_Stevenson)
+- https://simple.wikipedia.org/wiki/Kidnapped_(book)
+- https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%BE%D0%BC_%D0%BE%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD
+- https://en.wikisource.org/wiki/Kidnapped_(Stevenson)
+- https://en.wikipedia.org/wiki/Kidnapped_(novel)
+- https://it.wikipedia.org/wiki/Il_ragazzo_rapito
+- https://ga.wikipedia.org/wiki/An_Fuadach
+- https://mk.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B4%D0%BD%D0%B0%D0%BF%D0%B8%D1%80%D0%B0%D0%BD
+- https://sv.wikipedia.org/wiki/Kidnappad
